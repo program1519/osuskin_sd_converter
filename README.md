@@ -1,3 +1,5 @@
-# <img src="https://i.imgur.com/ChG6TW9.png" width="40"/> osu-skin_sd_converter
+<img src="https://i.imgur.com/ChG6TW9.png" width="160" height="90"/> osu-skin_sd_converter
 <p>try!<a href="https://skin.p1519.xyz/">skin.p1519.xyz</a><br></p>
 <p>maybe cant not convert files perfectly 100% </p>
+
+<img src="https://i.imgur.com/O4t4r6D.png" width="320" height="180">
