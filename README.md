@@ -4,7 +4,7 @@
 
 <img src="https://i.imgur.com/O4t4r6D.png" width="320" height="180">
 
-#How?<br>
+# How?<br>
 Check files ending with @2x.png / @2x.jpg<br>
 Reduce image size by 50% of the original size<br>
 Save the new file, renaming it to remove the @2x suffix<br>
