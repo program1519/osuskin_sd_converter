@@ -10,4 +10,4 @@ Save the new file, renaming it to remove the @2x suffix<br>
 Delete the original files ending with @2x<br>
 
 <br>
-<a href="https://p1519.xyz/howto/">how to </a>
+<a href="https://p1519.xyz/howto/">how to? </a>
