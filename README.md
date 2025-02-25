@@ -8,3 +8,6 @@ This will Check files ending with @2x.png / @2x.jpg<br>
 Reduce image size by 50% of the original size<br>
 Save the new file, renaming it to remove the @2x suffix<br>
 Delete the original files ending with @2x<br>
+
+<br>
+<a href="https://p1519.xyz/howto/">how to </a>
