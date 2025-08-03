@@ -1,5 +1,5 @@
 # <img src="https://i.imgur.com/ChG6TW9.png" width="40"/> osu!skin_sd_converter
-<p>try!<a href="https://skin.p1519.xyz/">skin.p1519.xyz</a><br></p>
+<p>try!<a href="https://skin.1519.fun/">skin.1519.fun</a><br></p>
 
 <img src="https://i.imgur.com/O4t4r6D.png" width="320" height="180">
 
